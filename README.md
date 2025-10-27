@@ -2,7 +2,7 @@
 
 A clean, interactive web application that measures typing speed (WPM) and accuracy. Built with vanilla JavaScript, HTML, and CSS as part of the Repped In Tech program.
 
-<img width="466" height="317" alt="Screenshot 2025-10-27 at 10 34 53 AM" src="https://github.com/user-attachments/assets/9809f80a-ed61-4504-880c-6b2e3e124007" />
+<img width="466" height="317" alt="Typing Test Screenshot" src="https://github.com/user-attachments/assets/9809f80a-ed61-4504-880c-6b2e3e124007" />
 
 ## 🚀 Features
 
@@ -123,8 +123,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Built as part of the [REPPED IN TECH](https://reppedin.tech) program
-- Inspired by popular typing test applications
-- Paragraph content created for diverse typing practice
+  
+[<img width="389" height="139" alt="REPPED IN TECH Logo" src="https://github.com/user-attachments/assets/edfd9d31-c13b-4514-b78e-c080a3797ab7" />](https://reppedin.tech)
+
 
 ---
 
