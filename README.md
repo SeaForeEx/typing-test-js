@@ -114,7 +114,7 @@ This is a learning project, but feedback and suggestions are welcome! Feel free 
 
 **[Charles Bridgers IV]**
 - GitHub: [@SeaForeEx](https://github.com/SeaForeEx)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/charlesbridgersiv)
+- LinkedIn: [Charles Bridgers IV](https://linkedin.com/in/charlesbridgersiv)
 
 ## 📝 License
 
